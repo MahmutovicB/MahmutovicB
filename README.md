@@ -1,5 +1,16 @@
-- 👋 Hi, I’m @MahmutovicB
-- 👀 I’m interested in programming, soccer and bikes...
-- 🌱 I’m currently learning ASP.NET, React...
-- 💞️ I’m looking to collaborate on for everyone who needs help...
-- 📫 Reach me through LinkedIn @Benjamin Mahmutovic...
+Name: Benjamin Mahmutovic
+Education: 1st year IT Student 
+
+Skills: 
+  - back-end programming (Java, C#, Python)
+  - database design and manipulation (MySQL, SQL, Filemaker Pro)
+  - web-development(React, JS)
+  - testing & QA(Jest, Manual Testing)
+  - desktop applications (Windows API)
+  - problem solving and algorithms
+
+Contact: 
+  - LinkedIn: Benjamin Mahmutovic
+  - Mail: bm.mahmutovic@gmail.com
+
+Feel free to reach out..
