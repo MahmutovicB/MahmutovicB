@@ -1,6 +1,6 @@
 👋 Hi, I'm Benjamin Mahmutović!  
 ...  
-🚀 1st-year IT Student | Passionate Developer  
+🚀 3rd-year IT Student | Passionate Developer  
 
 💡 Skills & Expertise: 
 
